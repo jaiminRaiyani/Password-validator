@@ -1,4 +1,3 @@
-// src/PasswordValidator.js
 import React, { useState } from "react";
 import "../styles/PasswordValidator.css";
 

@@ -51,6 +51,7 @@ const PasswordValidator = () => {
         onChange={handleChange}
       />
       <h3 className={strength}>{strength}</h3>
+      <h4>Example password: m#P52s@ap$V</h4>
     </div>
   );
 };
